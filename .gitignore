@@ -1,0 +1,9 @@
+*sh
+*pyc
+/data
+!/data/.gitkeep
+/results
+*.DS_Store
+.idea/
+desktop.ini
+/logs
